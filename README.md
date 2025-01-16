@@ -1,4 +1,4 @@
-# API REST para Foro
+# FORO 
 
 ## Descripción
 Esta API permite la gestión de tópicos en un foro, incluyendo la creación, consulta, actualización y eliminación de tópicos. 
